@@ -1,4 +1,4 @@
-@REM AndroidStudioWifiConnection by GalvinPython, Version 1.0, 5th June 2023
+@REM AndroidStudioWifiConnection.bat by GalvinPython, Version 1.0, 5th June 2023
 @REM In some Android Studio IDEs, some devices fail to connect over Wifi.
 @REM However, it is possible by using commands
 @REM Commands taken from:
